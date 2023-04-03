@@ -1,0 +1,8 @@
+.k{
+    position: absolute;
+    left: 50%;
+    top: 40%; 
+   /* color: rgba(207, 204, 28, 0.385);  */
+    transform: translate(-50%, -50%);
+  }  
+  
